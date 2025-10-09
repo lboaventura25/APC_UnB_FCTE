@@ -7,8 +7,8 @@ Este repositório contém materiais da disciplina **Algoritmos e Programação d
 Aqui, os alunos encontrarão:
 
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/2025.2/Plano_de_Ensino_APC_2025_02.docx%20(1).pdf)
-- 💯 [**Notas Provas** da disciplina](./notas/)
-    - [**P1**](./notas/)
+- 💯 [**Notas Provas** da disciplina](./notas/2025.2/)
+    - [**P1**](./notas/2025.2/NOTAS%20APC%202025.2%20-%20T11%20-%20P1.pdf)
     - [**P2**](./notas/)
     - [**P3**](./notas/)
     - [**Prova Substitutiva**](./notas/)
@@ -17,7 +17,7 @@ Aqui, os alunos encontrarão:
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
 - 📝 **Listas de Exercícios** (se aplicável, normalmente será no juiz online [MOJ](https://moj.naquadah.com.br/))
-    - 📋 **Lista 01**: [Lab P1 T12](https://moj.naquadah.com.br/cgi-bin/contest.sh/boaventura_LAB) (login/senha enviados no email @aluno.unb.br)
+    - 📋 **Lista 01**: [Lab P1 T11]() (login/senha enviados no email @aluno.unb.br)
 
 ## 📜 Sobre a Disciplina
 

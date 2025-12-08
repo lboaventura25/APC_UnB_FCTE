@@ -1,20 +1,26 @@
 #include <stdio.h>
 
 int main() {
-    int matriz[3][3];
+    int mat[10][10];
+    int N;
 
-    for(int i = 0; i <= 2; i++) {
-        for(int j = 0; j <= 2; j++) {
-            matriz[i][j] = i + j;
+    scanf("%d", &N);
+
+    for(int i = 0; i < N; i++) {
+        for(int j = 0; j < N; j++) {
+            printf("Matriz[%d][%d]: ", i, j);
+            scanf("%d", &mat[i][j]);
         }
     }
+    printf("----------------------\n");
 
-    for(int i = 0; i <= 2; i++) {
-        for(int j = 0; j <= 2; j++) {
-            printf("%d ", matriz[i][j]);
+    for(int i = 0; i < N; i++) {
+        for(int j = 0; j < N; j++) {
+            printf("%d ", mat[i][j]);
         }
         printf("\n");
     }
+    printf("\n");
 
     return 0;
 }

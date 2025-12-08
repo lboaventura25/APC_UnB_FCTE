@@ -3,6 +3,8 @@
         ".sequelizerc": "javascript",
         ".stylelintrc": "json",
         ".prettierrc.json": "json",
-        "stdio.h": "c"
+        "*.tpl": "html",
+        "stdio.h": "c",
+        "A.C": "cpp"
     }
 }
